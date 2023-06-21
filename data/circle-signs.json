@@ -120,6 +120,7 @@
         },
         {
             "word": "earth",
+            "tooltip": "rock steady baby",
             "children": [
                 {
                     "word": "taurus",

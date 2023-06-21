@@ -1,10 +1,7 @@
 nav {
     background-color: whitesmoke;
-    width: 100%;
-    position: fixed;
     margin-top: -16px;
     margin-left: -16px;
-    top:0;
 }
 
 nav, nav li {
@@ -28,6 +25,12 @@ nav li > a:hover {
 nav > li > a.active {
     color: green;
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 
 h2 {
     font-family: 'Sacramento', cursive;
@@ -60,6 +63,7 @@ body > div {
   
   .section#one > .graph {
     grid-column: 2 / 2; 
+    margin-top: 50px;
   }
 
   .section#two > .text {

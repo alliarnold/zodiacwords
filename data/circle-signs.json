@@ -1,0 +1,436 @@
+{
+    "word": "zodiac",
+    "tooltip": "come on, explore!",
+    "children": [
+        {
+            "word": "fire",
+            "tooltip": "get ready for action",
+            "children": [
+                {
+                    "word": "aries",
+                    "tooltip": "top marks for passion, aries",
+                    "children": [
+                        {
+                            "word": "energy",
+                            "value": 15
+                        },
+                        {
+                            "word": "head",
+                            "value": 11
+
+                        },
+                        {
+                            "word": "self",
+                            "value": 11
+                        },
+                        {
+                            "word": "leader",
+                            "value": 8
+                        },
+                        {
+                            "word": "war",
+                            "value": 8
+                        },
+                        {
+                            "word": "work",
+                            "value": 8
+                        },
+                        {
+                            "word": "passionate",
+                            "value": 7
+                        },{
+                            "word": "fiery",
+                            "value": 7
+                        }
+
+                    ]
+                },
+                {
+                    "word": "leo",
+                    "tooltip":"leo, the best, best friend",
+                    "children": [
+                        {
+                            "word": "self",
+                            "value": 15
+                        },
+                        {
+                            "word": "natural",
+                            "value": 10
+                        },{
+                            "word": "king",
+                            "value": 9
+                        },{
+                            "word": "friend",
+                            "value": 8
+                        },{
+                            "word": "relationship",
+                            "value":8
+                        },{
+                            "word": "loyal",
+                            "value": 8
+                        },{
+                            "word": "attention",
+                            "value": 8
+                        },{
+                            "word": "passionate",
+                            "value": 7
+                        },{
+                            "word": "leader",
+                            "value": 7
+                        },{
+                            "word": "heart",
+                            "value": 11
+                        }
+                    ]
+                },
+                {
+                    "word": "sagittarius",
+                    "tooltip":"sagittarius, such a philosopher!",
+                    "children": [
+                        {
+                            "word": "spirit",
+                            "value": 12
+                        },
+                        {
+                            "word": "travel",
+                            "value": 11
+                        },{
+                            "word": "friend",
+                            "value": 10
+                        },{
+                            "word": "world",
+                            "value": 9
+                        },{
+                            "word": "philosophical",
+                            "value": 9
+                        },{
+                            "word": "freedom",
+                            "value": 8
+                        },{
+                            "word": "humor",
+                            "value": 8
+                        },{
+                            "word": "knowledge",
+                            "value": 7
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "word": "earth",
+            "children": [
+                {
+                    "word": "taurus",
+                    "tooltip": "taurus, grounded AND indulgent?",
+                    "children": [
+                        {
+                            "word": "practical",
+                            "value": 11
+                        },
+                        {
+                            "word": "stubborn",
+                            "value": 19
+                        },
+                        {
+                            "word": "friend",
+                            "value": 10
+                        },{
+                            "word": "beauty",
+                            "value": 9
+                        },{
+                            "word": "money",
+                            "value": 9
+                        },{
+                            "word": "physical",
+                            "value": 9
+                        },
+                        {
+                            "word": "grounded",
+                            "value": 9
+                        },{
+                            "word": "nature",
+                            "value": 8
+                        }
+                    ]
+                },
+                {
+                    "word": "virgo",
+                    "tooltip": "virgo, was there ever someone more detail oriented?",
+                    "children": [
+                        {
+                            "word": "detail",
+                            "value": 13
+                        },
+                        {
+                            "word": "practical",
+                            "value": 12
+                        },{
+                            "word": "help",
+                            "value": 11
+                        },{
+                            "word": "everything",
+                            "value": 10
+                        },{
+                            "word": "information",
+                            "value": 8
+                        },{
+                            "word": "analytical",
+                            "value": 8
+                        },{
+                            "word": "critical",
+                            "value": 7
+                        },{
+                            "word": "self",
+                            "value": 7
+                        }
+                    ]
+                },
+                {
+                    "word": "capricorn",
+                    "tooltip": "need career advice? ask a capricorn",
+                    "children": [
+                        {
+                            "word": "work",
+                            "value": 11
+                        },
+                        {
+                            "word": "success",
+                            "value": 11
+                        },{
+                            "word": "friend",
+                            "value": 9
+                        },{
+                            "word": "ambitious",
+                            "value": 8
+                        },{
+                            "word": "relationship",
+                            "value": 8
+                        },{
+                            "word": "world",
+                            "value": 7
+                        },{
+                            "word": "ability",
+                            "value": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "air",
+            "tooltip": "words and ideas are like breadth",
+            "children": [
+                {
+                    "word": "gemini",
+                    "tooltip": "you geminis want to know everything!",
+                    "children": [
+                        {
+                            "word": "communication",
+                            "value": 14
+                        }, {
+                            "word": "friend",
+                            "value": 13
+                        },{
+                            "word": "quick",
+                            "value": 11
+                        },{
+                            "word": "curious",
+                            "value": 10
+                        },{
+                            "word": "mind",
+                            "value": 10
+                        },{
+                            "word": "idea",
+                            "value": 9
+                        },{
+                            "word": "duality",
+                            "value": 8
+                        },{
+                            "word": "social",
+                            "value": 8
+                        },{
+                            "word": "intellectual",
+                            "value": 7
+                        }
+                    ]
+                },
+                {
+                    "word": "libra",
+                    "tooltip": "oh libra, you're just right",
+                    "children": [
+                        {
+                            "word": "balance",
+                            "value": 26
+                        },
+                        {
+                            "word": "harmony",
+                            "value": 13
+                        },{
+                            "word": "beauty",
+                            "value": 13
+                        },{
+                            "word": "relationship",
+                            "value": 13
+                        },{
+                            "word": "justice",
+                            "value": 12
+                        },{
+                            "word": "art",
+                            "value": 11
+                        },{
+                            "word": "partnership",
+                            "value": 11
+                        },{
+                            "word": "energy",
+                            "value": 11
+                        },{
+                            "word": "social",
+                            "value": 9
+                        },{
+                            "word": "indecisive",
+                            "value": 8
+                        }
+                    ]
+                },
+                {
+                    "word": "aquarius",
+                    "tooltip": "aquarius, teach us your deep thoughts",
+                    "children": [
+                        {
+                            "word": "intellectual",
+                            "value": 11
+                        },
+                        {
+                            "word": "relationship",
+                            "value": 10
+                        },{
+                            "word": "mind",
+                            "value": 9
+                        },{
+                            "word": "community",
+                            "value": 9
+                        },{
+                            "word": "social",
+                            "value": 8
+                        },{
+                            "word": "unique",
+                            "value": 8
+                        },{
+                            "word": "concept",
+                            "value": 7
+                        },{
+                            "word": "progressive",
+                            "value": 7
+                        },{
+                            "word": "humanitarian",
+                            "value": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "water",
+            "tooltip": "feelings as deep as the ocean",
+            "children": [
+                {
+                    "word": "cancer",
+                    "tooltip": "cancer, you're so in tune!",
+                    "children": [
+                        {
+                            "word": "emotion-emotional",
+                            "value": 30
+                        },
+                        {
+                            "word": "home",
+                            "value": 19
+                        },{
+                            "word": "feel",
+                            "value": 18
+                        },{
+                            "word": "family",
+                            "value": 13
+                        },{
+                            "word": "highly-sensitive",
+                            "value": 11
+                        },{
+                            "word": "nurturing",
+                            "value": 11
+                        },{
+                            "word": "heart",
+                            "value": 10
+                        },{
+                            "word": "self",
+                            "value": 9
+                        }
+                    ]
+                },
+                {
+                    "word": "scorpio",
+                    "tooltip": "oh scorpio, you've got the sexiest secrets",
+                    "children": [
+                        {
+                            "word": "emotional",
+                            "value": 13
+                        },
+                        {
+                            "word": "friend",
+                            "value": 13
+                        },{
+                            "word": "power",
+                            "value": 12
+                        },{
+                            "word": "transformation",
+                            "value": 12
+                        },{
+                            "word": "sex",
+                            "value": 11
+                        },{
+                            "word": "intense",
+                            "value": 9
+                        },{
+                            "word": "relationship",
+                            "value": 9
+                        },{
+                            "word": "secret",
+                            "value": 9
+                        }
+                    ]
+                },{
+                    "word": "pisces",
+                    "tooltip": "pisces, who knew a realistic could be so creative!",
+                    "children": [
+                        {
+                            "word": "reality",
+                            "value": 10
+                        },{
+                            "word": "world",
+                            "value": 9
+                        },{
+                            "word": "imagination",
+                            "value": 8
+                        },{
+                            "word": "intuitive",
+                            "value": 8
+                        },{
+                            "word": "emotion-emotional",
+                            "value": 15
+                        },{
+                            "word": "psychic",
+                            "value": 7
+                        },{
+                            "word": "compassionate",
+                            "value": 7
+                        },{
+                            "word": "help",
+                            "value": 7
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}

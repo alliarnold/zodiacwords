@@ -4,7 +4,7 @@
     "children": [
         {
             "word": "fire",
-            "tooltip": "get ready for action",
+            "tooltip": "fire's ready for action",
             "children": [
                 {
                     "word": "aries",
@@ -120,7 +120,7 @@
         },
         {
             "word": "earth",
-            "tooltip": "rock steady baby",
+            "tooltip": "earth is rock steady baby",
             "children": [
                 {
                     "word": "taurus",
@@ -221,7 +221,7 @@
         },
         {
             "word": "air",
-            "tooltip": "words and ideas are like breadth",
+            "tooltip": "air's ideas are like breadth",
             "children": [
                 {
                     "word": "gemini",
@@ -334,7 +334,7 @@
         },
         {
             "word": "water",
-            "tooltip": "feelings as deep as the ocean",
+            "tooltip": "water's as deep as the ocean",
             "children": [
                 {
                     "word": "cancer",

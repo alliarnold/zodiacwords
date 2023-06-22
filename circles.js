@@ -43,16 +43,16 @@ const color = d3.scaleOrdinal()
     .unknown("white")
     .range(["#00d1fa", "#faeeed","#e5fae1", "#edfaf9", "#efedfa", "#EA592A", "#FC8B5E","#C0587E", "#4f8901", "#bdd002","#bded55" /*"#e0f5b3"*/, "#72ccb7", "#ffa3f3", "#8ed1f5", "#6579c7", "#a819e6", "#3d13e8"])
 
-const tooltipCircle = d3.select("#two")
-  .append("div")
-  .attr("class", "tooltip-circle")
-  .style("position", "absolute")
-  .style("opacity", 0)
-  .style("background-color", "white")
-  .style("color", "black")
-  .style("border-radius", "4px")
-  .style("border-width", "2px")
-  .style("border-color", "black");
+// const tooltipCircle = d3.select("#three")
+//   .append("div")
+//   .attr("class", "tooltip-circle")
+//   .style("position", "fixed")
+//   .style("opacity", 0)
+//   .style("background-color", "white")
+//   .style("color", "black")
+//   .style("border-radius", "4px")
+//   .style("border-width", "2px")
+//   .style("border-color", "black");
 
 const tipover = function (d) {
   
@@ -80,8 +80,8 @@ const node = svg.append("g")
                 .attr("fill", d => color(d.data.word))
                 .attr("tooltipval", d => d.data.tooltip)
                 .attr("pointer-events", d => !d.children ? "none" : null)
-                .on("mouseover", tipover)
-                .on("mouseout", tipleave)
+                // .on("mouseover", tipover)
+                // .on("mouseout", tipleave)
                 .on("click", (event, d) => focus !== d && (zoom(event, d), event.stopPropagation()));
 
 const label = svg.append("g")
